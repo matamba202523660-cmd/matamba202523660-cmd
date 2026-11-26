@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Daniel 👋
 
-<!--
-**matamba202523660-cmd/matamba202523660-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### | Software Developer | Web Developer | Programmer | Graphic Designer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate technology enthusiast interested in building modern websites, developing practical software solutions, and creating beautiful digital experiences.
+
+I combine technology, creativity, and innovation to bring ideas to life.
+
+### 🚀 About Me
+
+- 💻 Interested in Web Development and Software Engineering.
+- 🎨 Graphic Designer and Creative Professional.
+- 🌐 Building and improving modern websites.
+- 📡 Interested in Computer Networking and Technology.
+- 📸 Passionate about Photography and Videography.
+- 🤝 Working under the Xcel Media brand.
+
+### 🛠️ Technologies & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Git & GitHub
+- Database
+- pgAdmin4
+- SQL
+- Vs Code
+
+### 🌟 Featured Projects
+
+- **Wazalendo Website** – My personal website.
+- **My Portfolio** – My personal developer portfolio.
+- **Quarter Stack Open** – My development projects.
+
+### 🎯 My Goals
+
+- Build useful and innovative software.
+- Improve my programming and development skills.
+- Contribute to meaningful projects.
+- Connect and collaborate with developers worldwide.
+
+### 📫 Let's Connect
+
+- **GitHub:** [My GitHub Profile](https://github.com/matamba202523660-cmd)
+- **Website:** [Wazalendo](https://wazalendo.gm)
+- **Email:** [matamba202523660@gmail.com](mailto\:matamba202523660@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+**Wazalendo | Xcel Media**
