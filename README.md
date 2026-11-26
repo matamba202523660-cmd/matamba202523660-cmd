@@ -45,7 +45,7 @@ I combine technology, creativity, and innovation to bring ideas to life.
 ### 📫 Let's Connect
 
 - **GitHub:** [My GitHub Profile](https://github.com/matamba202523660-cmd)
-- **Website:** [Wazalendo](https://wazalendo.gm)
+- **Website:** https://matamba202523660-cmd.github.io/MY-PORTFOLIO/
 - **Email:** [matamba202523660@gmail.com](mailto\:matamba202523660@gmail.com)
 
 ---
