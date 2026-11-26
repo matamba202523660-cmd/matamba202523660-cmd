@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel 👋
+# Hi there, I'm Wazalendo 👋
 
 ### | Software Developer | Web Developer | Programmer | Graphic Designer
 
@@ -49,3 +49,11 @@ I combine technology, creativity, and innovation to bring ideas to life.
 ⭐ Thanks for visiting my profile!
 
 **Wazalendo | Xcel Media**
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matamba202523660-cmd&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matamba202523660-cmd&layout=compact&theme=tokyonight" height="165" />
+</p>
+
