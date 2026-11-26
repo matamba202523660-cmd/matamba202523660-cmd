@@ -19,15 +19,11 @@ I combine technology, creativity, and innovation to bring ideas to life.
 
 ### 🛠️ Technologies & Tools
 
-- HTML5
-- CSS3
-- JavaScript
-- Java
-- Git & GitHub
-- Database
-- pgAdmin4
-- SQL
-- Vs Code
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,postgres,vscode" />
+</p>
+
 
 ### 🌟 Featured Projects
 
